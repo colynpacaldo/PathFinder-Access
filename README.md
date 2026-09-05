@@ -1,0 +1,2 @@
+# PathFinder Access : Find Your Way Forward
+A crowdsourced Android mobile application designed to help individuals with mobility challenges safely navigate their communities. The platform allows users to report, upvote, and comment on real-time accessibility barriers (such as broken elevators, blocked ramps, or damaged sidewalks) and filters active community alerts based on customized mobility profiles (e.g., wheelchair, cane/walker, visual impairment).
